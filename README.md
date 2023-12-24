@@ -95,23 +95,60 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+admap
 
+v0.1
 - [ ] Attribute System
     - [ ] Sub-Attribute System
+       - [ ] (ATTR) Magical Potency
+       - [ ] (ATTR) Agility/Dexterity
+       - [ ] (ATTR) Constitution
+       - [ ] (ATTR) Intelligence
+       - [ ] (ATTR) Wisdom
+       - [ ] (ATTR) Learning
+    - [ ] Attribute Effects (Basic)
 - [ ] UI
+    - [ ] Attribute System
+    - [ ] Leveling System
+    - [ ] Experience System
 - [ ] Experience System
-- [ ] Level Access System
+- [ ] Level Gate System
+    - [ ] Attribute Assignment
+    - [ ] Leveling Locks
+<br>
+v0.1+ Planned Roadmap
+- [ ] Attribute System
+    - [ ] Attribute Effects (Improved)
+- [ ] Level Gate System
+    - [ ] Attribute Assignment
+    - [ ] Leveling Locks
     - [ ] Spell Access System
+- [ ] Advanced Level Access System
 - [ ] Spell System
-- [ ] Spell Additions
-- [ ] Effects System
+    - [ ] Pre-implememted Spells
+    - [ ] New Spells
+       - [ ] New Functionality
+- [ ] Spell Visual Effects
 - [ ] Animations
 - [ ] Character Locks/Effects
 - [ ] Learning System
+   - [ ] Books
+   - [ ] Scrolls
+   - [ ] Direct Spell Learning
 
 See the [open issues](https://github.com/LumoWarp/hogs/issues) for a full list of proposed features (and known issues). The roadmap is currently unsorted and incomplete regarding all of the planned/discussed features.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- RELEASE -->
+## Releases
+
+- [ ] Beta-test v0.1
+    - [ ] Public v0.1
+     
+Beta-test v0.1 will not be released before the end of February 2024.
+<br>
+Public v0.1 will not be released before the March 15th 2024.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
