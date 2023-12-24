@@ -116,8 +116,10 @@ v0.1
 - [ ] Level Gate System
     - [ ] Attribute Assignment
     - [ ] Leveling Locks
+
 <br>
-v0.1+ Planned Roadmap
+
+v0.1+ Planned
 - [ ] Attribute System
     - [ ] Attribute Effects (Improved)
 - [ ] Level Gate System
