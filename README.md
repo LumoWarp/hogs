@@ -149,6 +149,8 @@ Project Link: [HOGS](https://github.com/LumoWarp/hogs)
 <br>
 Discord Link: [Discord](https://discord.com/invite/6z7s9tK4)
 <br>
+Feature List: [Trello](https://trello.com/b/ivyNM9OY/hogwarp-lumosteam-general-leveling-rp-script-plans)
+<br>
 Dev Application: [Coming Soon](https://discord.com/invite/6z7s9tK4)
 <br>
 Beta Tester Application: [Coming Soon](https://discord.com/invite/6z7s9tK4)
