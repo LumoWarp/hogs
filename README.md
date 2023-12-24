@@ -101,13 +101,20 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Placeholder
-    - [ ] Placeholder
-- [ ] Placeholder
-- [ ] Placeholder
-- [ ] Placeholder
+- [ ] Attribute System
+    - [ ] Sub-Attribute System
+- [ ] UI
+- [ ] Experience System
+- [ ] Level Access System
+    - [ ] Spell Access System
+- [ ] Spell System
+- [ ] Spell Additions
+- [ ] Effects System
+- [ ] Animations
+- [ ] Character Locks/Effects
+- [ ] Learning System
 
-See the [open issues](https://github.com/LumoWarp/hogs/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/LumoWarp/hogs/issues) for a full list of proposed features (and known issues). The roadmap is currently unsorted and incomplete regarding all of the planned/discussed features.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
