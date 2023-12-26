@@ -191,7 +191,7 @@ Discord Link: [Discord](https://discord.com/invite/6z7s9tK4)
 <br>
 Feature List: [Trello](https://trello.com/b/ivyNM9OY/hogwarp-lumosteam-general-leveling-rp-script-plans)
 <br>
-Dev Application: [Coming Soon](https://discord.com/invite/6z7s9tK4)
+Dev Application: [Developer Application](https://forms.gle/Xpi9JJKqAALnoku2A)
 <br>
 Beta Tester Application: [Coming Soon](https://discord.com/invite/6z7s9tK4)
 
